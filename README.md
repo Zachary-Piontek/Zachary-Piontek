@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Zachary-Piontek/Zachary-Piontek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on skills.<br>🌱 I’m currently learning more about React.<br>⚡ Fun fact: My favorite comedian is Sam Kinison.
 
