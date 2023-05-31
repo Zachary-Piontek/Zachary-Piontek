@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS services and how to use them to my advantage.<br>💬 Ask me about AWS or Javascript<br>⚡ Fun fact: During the summer of 2016, I embarked on an exploratory journey across the United States and Canada, covering a distance of over 16,000 miles behind the wheel.
+🔭 I’m currently working on capstone projects.<br>💬 Using javascript, react and nextjs.<br>⚡ Fun fact: During the summer of 2016, I embarked on an exploratory journey across the United States and Canada, covering a distance of over 16,000 miles behind the wheel.
 
 
 ## 🌐 Socials:
